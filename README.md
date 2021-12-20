@@ -40,11 +40,7 @@
 
 <br>
 
-# 🔎 Link
 
-http://projectstudy.shop/
-
-<br>
 
 # 🎥 실행영상
 
